@@ -23,3 +23,6 @@ You can set proxy in ```~/.config/telegramtui/telegramtui.ini```
 * Exit: `Ctrl+Q`, `ESC`  
 * Copy: `Shift+Mouse`
 * Paste: `Shift+Ins`, `Shift+Middle mouse button`
+
+## TODO
+  [docs](https://docs.telethon.dev/en/latest/)

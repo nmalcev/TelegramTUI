@@ -53,6 +53,7 @@ class TelegramApi:
 
         self.me = self.client.get_me()
         self.dialogs = self.client.get_dialogs(limit=self.message_dialog_len)
+        # TODO should be a dictionary!
         self.messages = len(self.dialogs) * [None]
         self.online = len(self.dialogs) * [""]
         self.messages[0] = self.client.get_messages(self.dialogs[0].entity, limit=self.message_dialog_len)
