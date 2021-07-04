@@ -25,4 +25,5 @@ You can set proxy in ```~/.config/telegramtui/telegramtui.ini```
 * Paste: `Shift+Ins`, `Shift+Middle mouse button`
 
 ## TODO
-  [docs](https://docs.telethon.dev/en/latest/)
+-  [docs](https://docs.telethon.dev/en/latest/)
+-  [Examples](https://github.com/vehlwn/tg-client/blob/master/main.py)
